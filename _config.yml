@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+name: CpML documentation by EFETnet
+markdown: kramdown
+baseurl: "/CpML/"
