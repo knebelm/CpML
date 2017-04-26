@@ -3,10 +3,6 @@ layout: default
 title: Start page
 ---
 
-Commodity product markup language
-
-Version 6 Release 4.1 (v6.4.1)
-
 Created by EFET
 
 <span id="_Ref447175168" class="anchor"><span id="_Toc474941563" class="anchor"></span></span>Copyright Notice
