@@ -45,8 +45,9 @@ discovered after publication. Such clarifications must take the form of
 a separate addendum to the main document and will be published in the
 same location as the standard.
 
+<link href="spec/introduction.html"/>
+
 <!--
-{% include introduction.html %}
 
 CpMLDocument Root
 -----------------
@@ -88,11 +89,5 @@ following sections:
 <span id="_Toc345944388" class="anchor"><span id="_Toc179107799" class="anchor"><span id="_Toc322283453" class="anchor"></span></span></span>
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-{% include europe.html %}
-
-{% include cnf.html %}
-
-
-{% include bcn.html %}
 
 -->
