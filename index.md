@@ -41,7 +41,7 @@ discovered after publication. Such clarifications must take the form of
 a separate addendum to the main document and will be published in the
 same location as the standard.
 
-{% link spec/introduction.html %}
+{{ site.baseurl }}{% link spec/introduction.html %}
 
 <!--
 
