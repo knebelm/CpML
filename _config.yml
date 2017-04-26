@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
-title: CpML documentation by EFETnet (Test)
-description: [short description]
+title: Commodity Product Markup Language (Test)
+description: Version 6 Release 4.1 (v6.4.1)
 show_downloads: true
 markdown: kramdown
 baseurl: "/CpML/"
