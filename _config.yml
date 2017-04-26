@@ -1,4 +1,6 @@
 theme: jekyll-theme-slate
-name: CpML documentation by EFETnet
+title: CpML documentation by EFETnet (Test)
+description: [A short description of your site's purpose]
+show_downloads: ["true" or "false" to indicate whether to provide a download URL]
 markdown: kramdown
 baseurl: "/CpML/"
