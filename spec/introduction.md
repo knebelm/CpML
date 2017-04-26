@@ -20,7 +20,7 @@ CpML defines the data format that is used by the following processes:
 
 -   eXRP (eXchange-Related Processes)
 
-<img src="media/image1.jpeg" width="622" height="402" />
+<!--<img src="media/image1.jpeg" width="622" height="402" />
 
 The CpML standard itself is process-neutral. The data structure is
 defined using XML schemas (XSD). Market participants deliver XML
@@ -78,13 +78,10 @@ class="anchor"></span>
                                                                                                                                                                      
                                  -   Rules for modal verbs added and modal verbs corrected.                                                                          
                                                                                                                                                                      
-                                 <!-- -->                                                                                                                            
-                                                                                                                                                                     
+                                                                                                                                                                  
                                  -   payload document = transaction details section                                                                                  
                                                                                                                                                                      
                                  -   envelope = regulatory details                                                                                                   
-                                                                                                                                                                     
-                                 <!-- -->                                                                                                                            
                                                                                                                                                                      
                                  -   Conventions to explain document usage added.                                                                                    |                          |
 | 6.4         | February 2017   | -   Additional time stamp fields to compensate for DLS issues                                                                      
@@ -330,3 +327,4 @@ is not used to combine information from multiple transactions.
 section 4.5.3.
 
 
+-->
