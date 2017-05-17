@@ -6,6 +6,7 @@ title: Start page
 Created by EFET
 
 Copyright Notice
+<!--
 --------------
 
 Copyright © EFET 2017. All Rights Reserved.
