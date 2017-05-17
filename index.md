@@ -43,7 +43,7 @@ same location as the standard.
 
 test
 
-<!--[Introduction]({% link spec/introduction.md %})
+<!--[Introduction]({{ site.baseurl }}{% link spec/introduction.md %})
 --> 
 
 <!--
