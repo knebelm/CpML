@@ -43,12 +43,12 @@ same location as the standard.
 
 [Introduction]({% link CpML/spec/introduction.md %})
 
-<!--
 CpMLDocument Root
 -----------------
 
 At root level, a CpMLDocument can have the following sections:
 
+<!--
 * Confirmation (optional), see section 5.2
 * Reporting, see section 5.3
 * One of:
