@@ -43,7 +43,8 @@ same location as the standard.
 
 test
 
-[Introduction]({% link spec/introduction.md %})
+<!--[Introduction]({% link spec/introduction.md %})
+--> 
 
 <!--
 CpMLDocument Root
