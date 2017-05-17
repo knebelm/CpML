@@ -43,7 +43,7 @@ same location as the standard.
 
 [Introduction]({% link CpML/spec/introduction.md %})
 
-
+<!--
 CpMLDocument Root
 -----------------
 
@@ -58,7 +58,7 @@ At root level, a CpMLDocument can have the following sections:
  * IRSTradeDetails, see section 5.7
  * ETDTradeDetails, see section 5.8
  * FXTradeDetails, see section 5.9
-
+-->
 
 
 <!--
