@@ -6,7 +6,7 @@ title: Start page
 Created by EFET
 
 Copyright Notice
-<!--
+
 --------------
 
 Copyright © EFET 2017. All Rights Reserved.
@@ -42,10 +42,10 @@ discovered after publication. Such clarifications must take the form of
 a separate addendum to the main document and will be published in the
 same location as the standard.
 
-test
+### testing links
 
-<!--[Introduction]({{ site.baseurl }}{% link spec/introduction.md %})
---> 
+* [Introduction]({{ site.baseurl }}{% link spec/introduction.md %}) 
+* [Europe]({{ site.baseurl }}{% link spec/europe.md %}) 
 
 <!--
 CpMLDocument Root
@@ -57,7 +57,7 @@ At root level, a CpMLDocument can have the following sections:
 * Confirmation (optional), see section 5.2
 * Reporting, see section 5.3
 * One of:
- *[TradeConfirmation]({% link CpML/spec/cnf.md %})
+ * TradeConfirmation
  * BrokerConfirmation, see section 5.5
  * Generic Confirmation, see section 5.6
  * IRSTradeDetails, see section 5.7
@@ -66,18 +66,3 @@ At root level, a CpMLDocument can have the following sections:
 -->
 
 
-<!--
-|                                                 |           |             |                   |
-|-------------------------------------------------|-----------|-------------|-------------------|
-| **Name**                                        | **Usage** | **Type**    | **Business Rule** |
-| **CpMLDocument/Confirmation**: optional section 
-                                                  
- This section is currently not in use.            |
-| ServiceMode                                     | M         | ServiceMode |                   |
-| End of **Confirmation**                         |
-
-<span id="_Toc345944388" class="anchor"><span id="_Toc179107799" class="anchor"><span id="_Toc322283453" class="anchor"></span></span></span>
----------------------------------------------------------------------------------------------------------------------------------------------
-
-
--->
